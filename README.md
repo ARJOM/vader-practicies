@@ -2,7 +2,7 @@
 
 Esse repositório é destinado ao estudo da biblioteca Vader, focada em seu uso para processamento de emoções em textos.
 
-Saída do código atual analisando três tipos de frase
+Exemplo de saída da função pontuacao_de_sentimentos
 ```
 --------------------------------------------------
 Hello everyone, nice to meet you all
@@ -26,4 +26,10 @@ frase foi classificada como  100.0 % neutra
 frase foi classificada como  0.0 % positiva
 Frase avaliada no geral como Neutra
 
+```
+
+Exemplo de saída do código atual
+```
+39.748640030013135% das amostras foram classificadas, corretamente, como negativas
+82.98630650909773% das amostras foram classificadas, corretamente, como positivas
 ```
